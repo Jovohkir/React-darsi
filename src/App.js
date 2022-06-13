@@ -60,7 +60,7 @@ export default function App() {
         <TableList
           removePost={removePost}
           posts={sortedAndsearchPosts}
-          title="Prrogramming Language"
+          title="Programming Language"
         />
       </div>
     </div>
